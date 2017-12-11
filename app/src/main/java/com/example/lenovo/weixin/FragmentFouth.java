@@ -16,6 +16,6 @@ public class FragmentFouth extends Fragment {
     }
 
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.table4,container,false);
+        return inflater.inflate(R.layout.fragment4,container,false);
     }
 }

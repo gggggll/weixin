@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <drawable name="blackcolor">#000000</drawable>
+    <drawable name="graycolor">#aaaaaa</drawable>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorTextViewNormal">#7F7F7F</color>
+    <color name="colorTextViewPress">#1B940A</color>
+    <drawable name="drawerdivider">#FFFFFF</drawable>
+    <!--<drawable name="theme_color">#1FAC75</drawable>-->
+    <drawable name="theme_color">#FF3300</drawable>
+    <drawable name="search_page_color">#60D1A3</drawable>
+    <drawable name="grid_background">#FFFDF1</drawable>
+
+    <color name="lightgreen">#7fa87f</color>
+
 </resources>
